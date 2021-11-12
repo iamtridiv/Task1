@@ -1,0 +1,2 @@
+1. To run this app.py file python compiler is needed.
+2. github repo : https://github.com/iamtridiv/Task1.git
